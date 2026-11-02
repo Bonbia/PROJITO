@@ -173,3 +173,5 @@ samples = lhs(problem, 20)  # 20 Latin hypercube samples: a row per design, a co
 </details>
 
 *Q: What is the use of the problem cell ?*
+
+First version of the surrogate model with Problem definition : [Surrogate.ipynb](/SurrogateNotebook.ipynb)
